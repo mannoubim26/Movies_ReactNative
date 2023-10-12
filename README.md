@@ -46,24 +46,6 @@ Tinder Movies is not your typical movie app. It's a social platform for movie en
 - **Chat Conversations**: Chat with friends about movies and plan movie nights.
 - **Recommendations**: Get movie recommendations based on your preferences.
 
-## Getting Started
-
-Follow these steps to get started with the Tinder Movies app.
-
-### Prerequisites
-
-- Android or iOS mobile device
-- App Store or Google Play account (for installation)
-- Internet connection
-
-### Installation
-
-1. Download the Tinder Movies app from the [App Store](#) or [Google Play](#).
-
-2. Install the app on your mobile device.
-
-3. Sign up or log in to your Tinder Movies account.
-
 ## Usage
 
 ### Profile Setup
@@ -91,27 +73,3 @@ Follow these steps to get started with the Tinder Movies app.
 1. Start a chat conversation with a friend by clicking on their profile.
 
 2. Discuss movie recommendations, plan movie nights, and enjoy the social aspect of the app.
-
-## Contributing
-
-We welcome contributions to make Tinder Movies even better. To contribute:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and commit them with clear and descriptive messages.
-
-4. Push your branch to your fork.
-
-5. Create a pull request to the `master` branch of this repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-If you have questions or need support, please contact [email](mailto:tnknight97@gmail.com).
-
-Thank you for joining the Tinder Movies community! We hope you have a great time connecting with friends and discovering new movies to watch together.
